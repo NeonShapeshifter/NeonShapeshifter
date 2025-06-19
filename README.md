@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Alexander (aka NeonShapeshifter)
+# 👋 Hey, I’m Ale 
 
 ### 🧠 About Me  
 I'm a software developer and founder of **Forvara**, where we’re building **Elaris** — a modern, modular ERP ecosystem designed for businesses in Panama and Latin America.
